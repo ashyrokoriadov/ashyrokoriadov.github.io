@@ -1,18 +1,10 @@
 [
   {
-    "icon": "fa-facebook",
-    "link": ""
-  },
-  {
-    "icon": "fa-twitter",
-    "link": ""
-  },
-  {
     "icon": "fa-linkedin",
-    "link": ""
+    "link": "https://www.linkedin.com/in/andriy-shyrokoryadov-51b7aa37/"
   },
   {
-    "icon": "fa-stack-exchange",
-    "link": ""
+    "icon": "fa fa-github",
+    "link": "https://github.com/ashyrokoriadov?tab=repositories"
   }
 ]

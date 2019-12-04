@@ -1,14 +1,14 @@
-title: John Smith
-description: My Personal Blog
-author: John Smith
-logo: /hcz-jekyll-blog/static/img/avatar.png
-github: https://github.com/codeasashu
-about: Freelance developer
+title: Andriy Shyrokoryadov
+description: Developer and data scientist's blog
+author: Andriy Shyrokoryadov
+logo: /static/img/avatar.jpg
+github: https://github.com/ashyrokoriadov?tab=repositories
+about: .Net Developer, data scientist
 
 baseurl: ""
 url: ""
 
-allowsearch: true
+allowsearch: false
 
 disqus_shortname: aboutashu
 google_analytics: UA-72862926-1
