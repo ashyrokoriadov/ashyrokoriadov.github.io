@@ -1,7 +1,7 @@
 [
   {
     "text": "O mnie",
-    "url": "/",
+    "url": "/about",
     "icon": "fa-graduation-cap",
 	"layout": "post"
   },
@@ -12,15 +12,15 @@
 	"layout": "post"
   },
   {
-    "text": "Kontakty",
-    "url": "/",
-    "icon": "fa fa-envelope-o",
-	"layout": "post"
-  },
-  {
-    "text": "Projects",
+    "text": "Projekty",
     "url": "/projects",
     "icon": "fa-desktop"
+  },
+  {
+    "text": "Kontakty",
+    "url": "/contacts",
+    "icon": "fa fa-envelope-o",
+	"layout": "post"
   },  
   {
     "text": "XML Feed",

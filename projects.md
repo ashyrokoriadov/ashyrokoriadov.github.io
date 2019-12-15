@@ -1,7 +1,7 @@
 ---
 layout: project
-title: Projects
+title: Projekty
 permalink: /projects/
 ---
 
-Few of my projects.
+Lista największych projektów w których brałem udział.

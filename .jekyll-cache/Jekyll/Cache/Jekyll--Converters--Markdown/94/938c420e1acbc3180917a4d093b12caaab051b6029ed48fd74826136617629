@@ -1,4 +1,4 @@
-I"™<p><small>This demo page has been used from <a href="http://jasonm23.github.io/markdown-css-themes/" target="_blank">http://jasonm23.github.io/markdown-css-themes/</a>.</small></p>
+I"š<p><small>This demo page has been used from <a href="http://jasonm23.github.io/markdown-css-themes/" target="_blank">http://jasonm23.github.io/markdown-css-themes/</a>.</small></p>
 
 <h1>A First Level Header</h1>
 
@@ -109,4 +109,5 @@ end tell
         <span class="n">time</span><span class="o">.</span><span class="n">sleep</span><span class="p">(</span><span class="mf">0.3</span><span class="p">)</span>
     <span class="n">img_thread</span><span class="o">.</span><span class="n">join</span><span class="p">()</span>
     <span class="k">print</span><span class="p">(</span><span class="s">'</span><span class="se">\n</span><span class="s">Image of the day downloaded.'</span><span class="p">)</span></code></pre></figure>
+
 :ET
