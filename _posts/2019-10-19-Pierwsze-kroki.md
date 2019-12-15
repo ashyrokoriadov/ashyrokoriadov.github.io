@@ -6,6 +6,7 @@ show_sidebar: false
 menubar: example_menu
 author: ted
 category: Matplotlib
+categories: matplotlib
 ---
 
 ### Anatomia wykresu
