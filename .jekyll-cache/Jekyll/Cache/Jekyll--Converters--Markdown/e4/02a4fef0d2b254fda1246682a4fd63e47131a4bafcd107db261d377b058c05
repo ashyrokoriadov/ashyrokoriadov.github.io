@@ -1,0 +1,155 @@
+I"%'<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gypYRaPuzhU" frameborder="0" allow="accelerometer; 
+autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+</center>
+
+<p>Witam wszystkich na moim kanale. Mam na imię Andriej i pochodzę z Ukrainy. Programowaniem
+interesuję się hobistycznie od wieku 11 lat, a od kilku lat jest to moje głowne źródło dochodu.
+Programuję w językach C# i Python. To wideo jest pierwszym wideo szkoleniowym z zakresu
+biblioteki Matplot lib.</p>
+
+<p>Przypomnijmy sobie trochę z zajęć z matematyki. Najprostszym wykres jest wykres 2D i składa się z
+dwóch osi współrzędnych: osi X zwaną osią odciętych i osi Y zwaną osią rzędnych.
+Na wykresie 2D można zwizualizować dane charakteryzujące się dwoma parametrami. Nazwy osi X i Y
+są dość umowne. Na przykład oś X może być osią czasu, a oś Y może być osią temperatury. W tym
+przypadku dane charakteryzujące zależność temperatury od czasu można zwizualizować na wykresie
+2D.</p>
+
+<p>Załóżmy że mamy zestaw danych z 2 punktów: (1,1) i (2,3). Dodajmy te punkty do wykresu.
+Po dodaniu punktów otrzymaliśmy tak zwany wykres punktowy. Gdy połączymy te 2 punkty
+otrzymamy inny rodzaj wykresu – wykres liniowy.
+Inną powszechną formą wykresu jest wykres 3D. Taki wykres służy do wizualizacji danych
+charakteryzujących się trzema parametrami. Do już istniejących osi X i Y dodajemy trzecią oś Z zwaną
+kotą.</p>
+
+<p>Dodajmy do wykresu 3D 2 punkty (1,1,1) i (2,1,2). Rysowanie wykresów 3D jest nieco bardziej
+skomplikowane. Wartości x i y należy odmierzyć na odpowiednich osiach tak samo jak w przypadku
+wykresu 2D, natomiast wartość Z jest mierzona na osi wychodzącej z punktu (x, y) na płaszczyźnie
+tworzoną przez osie X i Y i równoległej do osi Z.</p>
+
+<p>W przypadku danych wielowymiarowych sprawy się komplikują. Załóżmy, że mamy dane, które
+charakteryzują się czterema parametrami czyli są to dane 4D. W tym przypadku korzystanie z
+wykresu 3D nas nie urządza, dlatego że jeden wymiar pozostanie bez wizualizacji. Najczęściej dane
+wielowymiarowe wizualizowane są przy pomocy kilku wykresów. Wykresy te mogą być różnego
+rodzaju. Najważniejsze żeby były o tej samej skali, w celu łatwego czytania danych przez odbiorcę
+wykresu.</p>
+
+<p>W tym wideo do wizualizacji danych 4D użyjemy 2 wykresów. Jako przykładowy punkt 4D użyjemy
+danych o następujących parametrach (x = 1, y = 3, z = 4, x1 = 2). Pierwszy wykres to wykres 3D na
+którym zwizualizujemy zależność zmiennych y i z od zmiennej x. Drugi wykres, będzie to wykres 2D z
+wizualizacją zależności zmiennej x1 od zmiennej x. Zachowanie skali w tym przykładzie jest dość
+umowne, ale należy pamiętać, że przy rysowaniu wykresów przy pomocy narzędzi programistycznych
+jest to łatwe do osiągnięcia.</p>
+
+<p>Rysowanie drugiego wykresu 2D z osiami x i x1 najlepiej rozpocząć na tym samym poziomie co osie x i
+y wykresu 3D. W takim układzie osoba czytająca wykres będzie mogła łatwo przełączać swoją uwagę
+pomiędzy wykresami. Wybierając typy wykresów do wizualizacji danych wielowymairowych musimy
+pamiętać o osobach, które będą z tych wykresów korzytać. Musimy być empatyczni i spojrzeć na
+naszą wizualizację z perspektywy innego człowieka, któremu ta wizualizacja ma pomóc zrozumieć
+reprezentowane dane. Być może warto spróbować poeksperymentować z różnymi typami wykresów:
+na przykład użyć wykresu słupkowego zamiast histogramu i odwrotnie, albo użyć wykresu
+punktowego zamiast liniowego.</p>
+
+<p>O typach wykresów, które możemy narysować korzystając z biblioteki Matplot lib będziemy
+rozmawawiać w kolejnych wideo szkoleniowych. Znajomość z biblioteką Matplot lib należy rozpocząć
+od omówienia, z czego tak naprawdę składa się wykres w Matplot libie.</p>
+
+<p>Każdy wykres, nie ważne czy jest narysowany od ręki czy przy pomocy jakiegoś narzędzia, posiada zdefiniowane elementy, bez których wykres nie mógłby być wykresem. Do tych elementów należą:</p>
+<ul>
+  <li>osie (<em>axes</em>)</li>
+  <li>linie (<em>lines / line plot</em>)</li>
+  <li>markery (<em>markers / scatter plot</em>)</li>
+  <li>nazwy osi (<em>axis labels</em>)</li>
+  <li>tytuł wykresu (<em>title</em>)</li>
+  <li>siatka (<em>grid</em>)</li>
+  <li>legenda (<em>legend</em>)</li>
+</ul>
+
+<p>Do tego należy dodać kilka elementów używanych przez bibliotekę Matplotlib:</p>
+
+<ul>
+  <li>duże oznaczenie osi (<em>major tick</em>)</li>
+  <li>małe oznaczenie osi (<em>minor tick</em>)</li>
+  <li>podpis dużego oznaczenia osi (<em>major tick label</em>)</li>
+  <li>podpis małego oznaczenia osi (<em>minor tick label</em>)</li>
+  <li>obiekt wykresu w całości (<em>figure</em>)</li>
+</ul>
+
+<p><img src="https://matplotlib.org/_images/anatomy.png" alt="Typowe elementy przykładowego wykresu w Matplotlib" width="550" height="550" /></p>
+
+<dl>
+  <dt>Osie</dt>
+  <dd>reprezuntują wymiary danych. Na przykład mając zbiór danych, składających się z dwóch wymiarów ([1,1], [5,3]) będziemy mieli wykres z 2 osiami. Zwykle oś pozioma ma oznaczenie X, oś pionowa ma oznaczenie Y, oś trzeciego wymiaru ma oznaczenie Z.</dd>
+  <dt>Wykres</dt>
+  <dd>jest to graficzna reprezentacja danych</dd>
+  <dt>Markery</dt>
+  <dd>służą do zaznaczania danych lub wydzielenia okrślonego zestawu danych</dd>
+  <dt>Nazwy osi i tytuł całego wykresu</dt>
+  <dd>ułatwia czytanie wykresu dla odbiorców</dd>
+  <dt>Siatka</dt>
+  <dd>ułatwia określenie wielkości poszczególnych elementów wykresu</dd>
+  <dt>Legenda</dt>
+  <dd>pozwala opisać dane reprezentowane na wykresie</dd>
+  <dt>Oznaczenia osi</dt>
+  <dd>pokazuje skalę danych</dd>
+  <dt>Podpisy oznaczeń osi</dt>
+  <dd>określa skalę danych</dd>
+  <dt>Obiekt wykresu</dt>
+  <dd>obiekt w sensie programistycznym używany przez Matplotlib</dd>
+</dl>
+
+<p>Wszystkie elementy wykresu Matplotlib są przyporządkowane określonej hierarchii. Na górze hierarchii znajduje się obiekt wykresu w całości (<em>figure</em>), do którego są dodawane pozostałe elementy, między innymi osie. Wykres może zawierać dowolną liczbę osi, ale aby być użytecznym potrzebuje przynajmniej jednej osi.</p>
+
+<p>Do pokazania przykładów Matplot lib użyjemy narzędzia Jupyter Notebook (link do narzędzia
+znajduje się w opisie do wideo). To narzędzie służy do natychmiastowego wykonywania poleceń
+Python i prezentacji wyników poleceń. Narzędzie to może zostać zainstalowane na komputerze lub
+można z niego korzystać online.</p>
+
+<p>Aby korzystać z biblioteki Matplot lib, musimy ją importować w kodzie Python.
+Również do rysowania wykresów będziemy potrzebowali danych. Do generowania danych użyjemy
+bibliteki numpy (link do dokumentacji biblioteki numpy znajduje się w opisie do wideo). Jest to
+świetne narzędzie do korzystania z zestawów danych i tablic.</p>
+
+<p>Używając funkcji linspace (x = np.linspace(0, 2, 100)) utworzymy tablicę jednowymiarową o rozmiarze
+100 zawierającą elementy w przedziale [0:2]. Jak można się domyśleć, pierwszym argumentem
+funkcji linspace jest wartość minimalna w generowanej tablicy, drugimy argumentem funkcji jest
+wartość maksymalna tablicy, a trzeci argument jest długością wygenerowanej tablicy.
+Jeżeli użyjemy polecenia print(x) możemy sprawdzić jaka tablica została wygenerowana przez
+polecenie linspace. Jak widać wszystko zostało wygenerowano zgodnie z naszymi oczekiwaniami,
+minimalny i maksymalny elementy to 0 i 2 odpowiednio, oraz długość tablicy mniej więcej wynosi
+100 elementów.</p>
+
+<p>Utworzymy wykres prostej fukcji liniowej o wzorze y = x. W tym celu zostanie wykorzystana funkcja z
+biblioteki Matplot lib o nazwie plot z trzema argumentami. Pierwszy argument to zestaw wartości x,
+drugim agrumentem jest zestaw wartości y, ale skoro y = x, to możemy znów użyć zestawu wartości
+x, trzeci argument w tym konkretnym przykładzie to argument nazwany „label” – jego wartość
+zastanie użyta przy tworzeniu legendy na wykresie.</p>
+
+<p>W tym momencie do wykresu dodamy jeszcze 2 elementy: tytuł wykresu oraz legendę. Ułatwi to
+odbiorcom naszego wykresu zrozumienie wizualizacji naszych danych. Tytuł jest dodawany przez
+wykorzystanie polecenie title, a legenda – przez wywołanie polecenia legend. Do wyświetlenia
+wykresu użyjemy funkcji show.</p>
+
+<p>Domyślnym kolorem wykresu jest kolor niebieski. Zmiana domyślnego koloru będzie omawiana w
+kolejnych wideo. Narysowaliśmy przy pomocy biblioteki Matplotlib nasz pierwszy wykres. Nie było to
+zbyt skomplikowane.</p>
+
+<p>Dodajmy teraz jeszcze 2 wykresy do naszego rysunku. Będą to wykresy funkcji kwadratowej i
+sześciennej. Użyjemy już istniejącego kodu. Skopiujemy go i trochę zmienimy. Zmienimy również
+wartość argumentu label w każdym z trzech wywołań funkcji plot, aby podpisy na legendzie
+dokładnie opisywały wykresy.</p>
+
+<p>Jak widać na jednej płaszczyżnie mamy 3 wykresy. Każde wywołanie funkcji plot dodaje wykres do
+rysunku, a polecenie show tylko wyświetla rysunek na ekranie. Nie określaliśmy w jakim kolorze mają
+być wykresy. Zostały one wybrane z domyślnej mapy kolorów. Na rysunku również mamy legendę,
+która prawidłowo opisuje nasze dane. Ten prosty przykład jest pierwszym i ostatnim na dziś
+przykładem rysowania wykresu przy użyciu biblioteki Matplot lib.</p>
+
+<p>Dziękuję za uwagę. Jeżeli wideo było pomocne i dowiedziałeś się czegoś nowego, to proszę go
+zlajkować. Przypominam że pomocne linki wspomniane w wideo zostały dodane do opisu na dole.
+Jeżeli wciąż masz pytania, to proszę zadaj je w komentarzu do wideo. A jeżeli chcesz być na bieżąco i
+dowiadywać się jako pierwszy o nowych wideo to subskrybuj ten kanał i kliknij dzwonek.</p>
+
+<p>Tekst do niniejszego wideo oraz przykłady kodu są dostępne na mojej stronie internetowej – link w
+opisie do wideo. Dziękuję.</p>
+:ET
