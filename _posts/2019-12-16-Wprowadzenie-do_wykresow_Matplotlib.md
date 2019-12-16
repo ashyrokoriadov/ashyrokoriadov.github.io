@@ -168,10 +168,4 @@ dowiadywać się jako pierwszy o nowych wideo to subskrybuj ten kanał i kliknij
 Tekst do niniejszego wideo oraz przykłady kodu są dostępne na mojej stronie internetowej – link w
 opisie do wideo. Dziękuję.
 
-<<<<<<< HEAD
 Kod z przykładami w wideo w formacie Jupyter Notebook jest dostępny <a href="/assets/code/Code_script_matplotlib_wideo_1.ipynb" download>tu</a>.
-=======
-Kod z przykładami w wideo w formacie Jupyter Notebook jest dostępny <a href="/assets/code/Code_script_matplotlib_wideo_1.ipynb">tu</a>.
-
-<img src="/assets/test-page-image-1.jpg">
->>>>>>> 54bd9d00189fff72012da4f0b1bf62956945f5e4
