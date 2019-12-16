@@ -169,6 +169,6 @@ dowiadywać się jako pierwszy o nowych wideo to subskrybuj ten kanał i kliknij
 Tekst do niniejszego wideo oraz przykłady kodu są dostępne na mojej stronie internetowej – link w
 opisie do wideo. Dziękuję.
 
-Kod z przykładami w wideo w formacie Jupyter Notebook jest dostępny <a href="/assets/code/code_script_matplotlib_wideo_1.ipynb">tu</a>.
+Kod z przykładami w wideo w formacie Jupyter Notebook jest dostępny <a href="/assets/code/Code_script_matplotlib_wideo_1.ipynb">tu</a>.
 
 <img src="/assets/test-page-image-1.jpg">
