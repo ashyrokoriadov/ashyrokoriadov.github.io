@@ -10,7 +10,7 @@ categories: matplotlib
 ---
 
 <center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gypYRaPuzhU" 
+<iframe width="560" height="315" src=" https://youtu.be/embed/Ab5MoQWJUA8" 
 frameborder="0" 
 allow="accelerometer; 
 autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -169,4 +169,4 @@ dowiadywać się jako pierwszy o nowych wideo to subskrybuj ten kanał i kliknij
 Tekst do niniejszego wideo oraz przykłady kodu są dostępne na mojej stronie internetowej – link w
 opisie do wideo. Dziękuję.
 
-Kod z przykładami w wideo w formacie Jupyter Notebook jest dostępny <a href="/assets/code/code_script_matplotlib_wideo_1.ipynb" download>tu</a>.
+Kod z przykładami w wideo w formacie Jupyter Notebook jest dostępny <a href="/assets/code/Code_script_matplotlib_wideo_1.ipynb" download>tu</a>.
