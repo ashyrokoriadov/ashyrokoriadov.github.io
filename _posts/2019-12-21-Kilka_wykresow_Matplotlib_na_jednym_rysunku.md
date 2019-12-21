@@ -10,9 +10,7 @@ categories: matplotlib
 ---
 
 <center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Ab5MoQWJUA8" 
-frameborder="0" allow="accelerometer; autoplay; 
-encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GKOelnwBEyE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
 
 Witam wszystkich na moim kanale. Mam na imię Andriej i pochodzę z Ukrainy. Programowaniem interesuję się hobistycznie od wieku 11 lat, a od kilku lat jest to moje głowne źródło dochodu. Programuję w językach C# i Python. To wideo jest drugim wideo szkoleniowym z zakresu biblioteki Matplot lib. W tym wideo pokażę jak na jednym rysunku zamieścić kilka wykresów  używając osobne osie dla każdego wykresu.
