@@ -55,7 +55,7 @@ Dodajemy trzeci i czwarty wykresy podrzędne na miejsca o koordynatach 1,0 i 1,1
 
 W tym wideo do jednego rysunku dodaliśmy 4 wykresy podrzędne. Taka wizualziacja jest przydatna do analizy danych wielowymiarowych. W kolejnych wideo przejrzymy się bardziej dokładnie jak działa funkcja **plot** i jakich argumentów należy używać do maksymalnie efektywnego i efektownego wykorzystania funkcji **plot** w bibliotece **Matplotlib**.
 
-Dziękuję za uwagę. Jeżeli wideo było pomocne i dowiedziałeś się czegoś nowego to proszę go zlajkować. Jeżeli wciąż masz pytania, to proszę zadaj ich w komentarzu do wideo. A jeżeli chcesz być na bierząco i dowiadywać się pierwszym o nowych wideo to subskrybuj na kanał i kliknij dzwonek.
+Dziękuję za uwagę. Jeżeli wideo było pomocne i dowiedziałeś się czegoś nowego to proszę go zlajkować. Jeżeli wciąż masz pytania, to proszę zadaj ich w komentarzu do wideo. A jeżeli chcesz być na bieżąco i dowiadywać się pierwszym o nowych wideo to subskrybuj na kanał i kliknij dzwonek.
 
 Tekst do tego wideo oraz przykłady kodu są dostępne na mojej stronie internetowej – link w opisie do wideo. Dziękuję.
 
