@@ -10,7 +10,7 @@ categories: matplotlib
 ---
 
 <center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GKOelnwBEyE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KpGpyvqHHEM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
 
 Witam wszystkich na moim kanale. To wideo jest trzecim wideo szkoleniowym z zakresu biblioteki **Matplotlib**. W tym wideo pokażę  w jaki sposób i z jakimi argumentami możemy wywołać funkcję plot(). 
