@@ -10,7 +10,7 @@ categories: matplotlib
 ---
 
 <center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPnA484if_8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dBeJJkGaO-8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
 
 Witam wszystkich na moim kanale. Dzisiaj będziemy rozmawiać o podpisach i tekstach, które możemy dodać do naszego wykresu, ulepszając jego czytelność i zrozumiałość dla odbiorców.
