@@ -10,7 +10,7 @@ categories: matplotlib
 ---
 
 <center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dBeJJkGaO-8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LbVQpWmuaC8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
 
 Witam na moim kanale. Temat dzisiejszego wideo oraz kilku kolejnych filmów będzie dokładne omówienie wszystkich najważniejszych typów wykresów dostępnych w bibliotece Matplotlib. W tym wideo zaprezentuję 2 typy wykresów ze wszystkimi szczegółami: wykres linowy oraz wykres z pseudokolorami.
