@@ -37,7 +37,7 @@ Rozmieszczając na rysunku kilka wykresów musimy zadbać o to, żeby poszczegó
 
 Dodatkowa informacja o <a href="https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.pyplot.plot.html#matplotlib.pyplot.plot" target="_blank">wykresach liniowych</a>. 
 
-#### **Wykres liniowy**
+#### **Wykres z pseudokolorami**
 
 Wykres z pseudokolorami przydaje się w sytuacjach kiedy trzeba zwizualizować dane 3D na płaszczyźnie 2D. W tym przypadku pierwsze 2 wymiary będą reprezentowały osie X i Y, natomiast 3 wymiar będzie reprezentowany przez odpowiedni kolor na wykresie.
 
