@@ -10,7 +10,7 @@ categories: matplotlib
 ---
 
 <center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LbVQpWmuaC8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/om881WvEYSo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
 
 Witam na moim kanale. W poprzednim wideo dokładnie omówiłem wykres liniowy oraz wykres z pseudokolorami z biblioteki **Matplotlib**. Tematem dzisiejszego wideo są histogramy oraz wykresy 3D. Szczególną uwagę chciałbym zwrócić na wykres 3D dlatego, że jest on poniekąd związany z wykresem z pseudokolorami. Wykres 3D, który zbudujemy w ramach dzisiejszego wideo, będzie 3D reprezentacją wykresu z pseudokolorami z poprzedniego wideo, a więc zachęcam do oglądania również poprzedniego nagrania.
