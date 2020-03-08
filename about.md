@@ -12,7 +12,7 @@ Ukończyłem studia na uczelni technicznej, aczkolwiek nie były to studia infor
 
 W 2013 roku ukończyłem informatyczne studia podyplomowe i od tego czasu pracuję jako programista. Na początku szukałem zamówień na różnych portalach jako freelancer. Następnie, w 2016 roku, zostałem IT kontraktorem. Pracowałem i pracuję z aplikacjami z branży bankowej i telekomunikacyjnej.
 
-Obecnie (listopad 2019) jestem studentem studiów podyplomowych Data Science, gdyż interesują mnie tematy obróbki i przechowywania danych, raportowania, tworzenia modeli Machine Learning.
+W styczniu 2020 ukończyłem studia podyplomowe Data Science, gdyż interesują mnie tematy obróbki i przechowywania danych, raportowania, tworzenia modeli Machine Learning.
 
 Więcej informacji o mnie możesz znaleźć na moim profilu [LinkedIn](https://www.linkedin.com/in/andriy-shyrokoryadov-51b7aa37/).
 
