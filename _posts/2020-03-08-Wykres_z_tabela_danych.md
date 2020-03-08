@@ -10,7 +10,7 @@ categories: matplotlib
 ---
 
 <center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e3CKpsTHmCo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TrXNatB5SNM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
 
 Witam wszystkich na moim kanale. Dzisiaj rysujemy wykres z tabelą danych i wykres punktowy.
@@ -59,4 +59,4 @@ Dodatkowa informacja o <a href="https://matplotlib.org/3.1.1/api/_as_gen/matplot
 
 To był ostatni przykład na dziś. Dziękuję za uwagę. Jeżeli wideo było pomocne i dowiedziałeś się czegoś nowego to proszę zlajkuj go. Jeżeli wciąż masz pytania, to proszę zadaj je w komentarzu do wideo. A jeżeli chcesz być na bieżąco i dowiadywać się jako pierwszy o nowych wideo to subskrybuj na kanał i kliknij dzwonek. Tekst do tego wideo oraz przykłady kodu są dostępne na mojej stronie internetowej – link w opisie do wideo. Dziękuję.
 
-Kod z przykładami w wideo w formacie Jupyter Notebook jest dostępny <a href="/assets/code/code_script_matplotlib_wideo_9.ipynb" download>tu</a>.
+Kod z przykładami w wideo w formacie Jupyter Notebook jest dostępny <a href="/assets/code/code_script_matplotlib_wideo_10.ipynb" download>tu</a>.
