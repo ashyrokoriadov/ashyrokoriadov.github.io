@@ -12,6 +12,12 @@
 	"layout": "post"
   },
   {
+    "text": "Вопросы C#",
+    "url": "/category/c_sharp_questions",
+    "icon": "fa fa-file-code-o",
+	"layout": "post"
+  },
+  {
     "text": "Projekty",
     "url": "/projects",
     "icon": "fa-desktop"
