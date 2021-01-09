@@ -1,5 +1,5 @@
 ---
-title: Приницпы объектно-ориентированного программирования - вопрос №3 на собеседование C# / .NET
+title: Приницпы ООП - вопрос №3 на собеседование C# / .NET
 subtitle: Текст к видео "Приницпы объектно-ориентированного программирования" на канале YouTube
 layout: page
 show_sidebar: false
@@ -10,7 +10,7 @@ categories: c_sharp_questions
 ---
 
 <center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qukYAQ36kao" 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EcLdg15t9pI" 
 frameborder="0" allow="accelerometer; autoplay; 
 encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
