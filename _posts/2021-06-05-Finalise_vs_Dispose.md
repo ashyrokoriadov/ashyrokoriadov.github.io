@@ -1,5 +1,5 @@
 ---
-title: Разница между Finalize и Dispose в C# - вопрос №26 на собеседование C# / .NET
+title: Разница между Finalize и Dispose в C# - вопрос №30 на собеседование C# / .NET
 subtitle: Текст к видео "Разница между Finalize и Dispose в C#" на канале YouTube
 layout: page
 show_sidebar: false
@@ -10,7 +10,7 @@ categories: c_sharp_questions
 ---
 
 <center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kDQNQCcM9iU" 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZSVXmb_K4F0" 
 frameborder="0" allow="accelerometer; autoplay; 
 encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
