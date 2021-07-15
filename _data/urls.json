@@ -25,7 +25,7 @@
   },
   {
     "text": "Шаблоны проектирования",
-    "url": "/category/template_methods",
+    "url": "/category/design_patterns",
     "icon": "fa fa-file-code-o",
 	"layout": "post"
   },

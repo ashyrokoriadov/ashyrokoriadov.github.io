@@ -1,6 +1,6 @@
 ---
 layout: posts_by_category
-categories: template_methods
+categories: design_patterns
 title: Шаблоны проектирования
-permalink: /category/template_methods
+permalink: /category/design_patterns
 ---
