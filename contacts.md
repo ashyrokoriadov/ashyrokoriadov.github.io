@@ -4,8 +4,8 @@ title: Kontakty
 permalink: /contacts/
 ---
 
-Zachęcam do kontaktowania się ze mną przez mój profil <a href="https://www.linkedin.com/in/andriy-shyrokoryadov-51b7aa37/" target="_blank">LinkedIn</a>.
+Please contact with me via my <a href="https://www.linkedin.com/in/andriy-shyrokoryadov-51b7aa37/" target="_blank">LinkedIn</a> profile.
 
-Mój kanal <a href="https://www.youtube.com/channel/UCUjFFn-387VIGvQ1KiomyXg?view_as=subscriber" target="_blank">YouTube</a>.
+My <a href="https://www.youtube.com/channel/UCUjFFn-387VIGvQ1KiomyXg?view_as=subscriber" target="_blank">YouTube</a> channel.
 
-Moje znaczki <a href="https://www.youracclaim.com/users/andriy-shyrokoryadov/badges" target="_blank">Acclaim</a>.
+My <a href="https://www.youracclaim.com/users/andriy-shyrokoryadov/badges" target="_blank">Acclaim</a> badges.

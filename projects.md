@@ -4,4 +4,4 @@ title: Projekty
 permalink: /projects/
 ---
 
-Lista największych projektów w których brałem udział.
+The biggest projects I have taken part in.

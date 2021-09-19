@@ -1,31 +1,38 @@
 [
 	{
-		"name": "Edytor kart katalogowych kabli",
+		"name": "Cable datasheets editor",
 		"image": "bitner.png",
 		"url": "https://bitner.com.pl/",
 		"date": "Jul 2015 - Dec 2015",
 		"tags": ["ASP.NET MVC","C#", "T-SQL", "JQuery"]
 	},
 	{
-		"name": "Aplikacja wspomagająca podjęcie decyzji kredytowych",
+		"name": "An application for mortgage intermadiaries and building societies",
 		"image": "dpr.png",
 		"url": "https://www.dpr.co.uk/",
 		"date": "Apr 2016 - Aug 2018",
 		"tags": ["Web Forms","Windows Forms","C#", "T-SQL", "JQuery", "Usługi ASMX"]
 	},
 	{
-		"name": "Budowa i obsługa systemów IVR",
+		"name": "IVR (Interactive Voice Response) system",
 		"image": "ivr.png",
 		"url": "http://pirios.com/contactis-automation",
-		"date": "Sep 2018 - obecnie",
+		"date": "Sep 2018 - Dec 2020",
 		"tags": ["WPF", "C#", "T-SQL", "Web API", "WCF"]
 	},
 	{
-		"name": "Rozwijanie aplikacji telefonicznej konsoli dyspozytorskiej",
+		"name": "Phone dispatcher WPF application",
 		"image": "d_desk.png",
 		"url": "http://pirios.com/contactis-d-desk",
-		"date": "Jul 2019 - obecnie",
+		"date": "Jul 2019 - Dec 2020",
 		"tags": ["WPF", "C#", "T-SQL", "Web API", "WCF"]
+	},
+	{
+		"name": "Investment and financial application",
+		"image": "d_desk.png",
+		"url": "http://hsbc.com",
+		"date": "Dec 2020 - present",
+		"tags": ["DevExpress", "C#", "T-SQL", "Web API", "WCF", ".Net Core"]
 	}
 
 ]
